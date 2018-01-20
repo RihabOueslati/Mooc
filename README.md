@@ -1,2 +1,2 @@
 # Mooc
- multi-platform application dedicated to learners
+ application dedicated to learners who want to have on-line certifications using java.
